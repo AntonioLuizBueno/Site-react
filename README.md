@@ -89,4 +89,4 @@ Você pode encontrar o texto completo da licença no arquivo `LICENSE` na raiz d
 
 ---
 
-[Clique aqui para visitar o projeto no GitHub!](URL-do-seu-repositório-aqui)
+[Clique aqui para visitar o projeto no GitHub!](https://github.com/AntonioLuizBueno/Site-react/tree/main)
